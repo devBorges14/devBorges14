@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 Olá, eu sou o Gabriel💫💤<br/>
 🐍 Estudante de Python<br/>
 🧠 Louco por conhecimento<br/>
