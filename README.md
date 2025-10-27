@@ -3,7 +3,7 @@ Olá, eu sou o Gabriel💫💤<br/>
 🐍 Estudante de Python<br/>
 🧠 Louco por conhecimento<br/>
 👨‍💻 Futuro programador Backend<br/>
-<i>"Resolvo enigmas que pretubam softwares"<i>
+<i>"Resolvo enigmas que pertubam softwares"<i>
 <i>               -by: Gabriel B. Rocha<i>
 
 ## 🌐 Socials:
